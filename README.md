@@ -129,4 +129,4 @@ The dashboard object is described by the following values:
 
 ### Update README
 
-Please also update the README.md file in the same directory of your dashboard file.
+Please also update the README.md file in the same directory of your dashboard file
